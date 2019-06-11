@@ -35,11 +35,7 @@ body {
 	color: #fff;
 }
 
-.mailchimp {
-    text-align: center;
-}
-
-.btn-secondary {
-    position: absolute;
-    top: 50%;
+#mc_embed_signup form {
+    display: block;
+    position: relative;
 }
