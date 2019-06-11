@@ -27,12 +27,19 @@ body {
 
 .btn-secondary {
 	background-color: #1c1c1c;
-	color: #red;
-    position: absolute;
-    top: 50%;
-    }
+	color: #fff;
+}
 
 .btn-secondary:hover {
 	background-color: #888888;
 	color: #fff;
+}
+
+.mailchimp {
+    text-align: center;
+}
+
+.btn-secondary {
+    position: absolute;
+    top: 50%;
 }
