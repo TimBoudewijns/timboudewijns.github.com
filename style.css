@@ -1,0 +1,36 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('header1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.font-weight-light {
+	color: #fff;
+}
+
+.lead {
+	color: #fff;
+}
+
+.btn-secondary {
+	background-color: #1c1c1c;
+	color: #fff;
+}
+
+.btn-secondary:hover {
+	background-color: #888888;
+	color: #fff;
+}
